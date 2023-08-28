@@ -4,6 +4,8 @@ Launch the app with the following command: `docker-compose -f docker-compose.dev
 
 # GitHub CLI
 
+check the process step by step
+
 gh auth login :
 
 ? What account do you want to log into? GitHub.com
