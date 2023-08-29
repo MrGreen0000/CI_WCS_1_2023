@@ -32,3 +32,19 @@ git push
 cd .\wns-docker-compose-app-main\
 
 code .
+
+# Docker Access Token
+
+Copy Access Token
+
+When logging in from your Docker CLI client, use this token as a password. Learn more
+Access Token Description
+github action ci
+Access Permissions
+Read, Write, Delete
+
+To use the access token from your Docker CLI client:
+
+1. Run docker login -u mrgreen0000
+
+2. At the password prompt, enter the personal access token.
